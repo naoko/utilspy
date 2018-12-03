@@ -1,0 +1,9 @@
+# jupyter, ansible etc that needs in dev.txt has so much conflict with rasa_core
+# thus separated test requirement
+# tests
+pytest
+pytest-cache
+pytest-cov
+pytest-flakes
+pytest-pep8
+mypy>=0.641
