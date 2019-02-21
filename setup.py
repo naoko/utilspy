@@ -14,7 +14,7 @@ class RunTest(test):
 
     def initialize_options(self):
         test.initialize_options(self)
-        self.mypy_args = ['nextbotpy']
+        self.mypy_args = ['utilspy']
 
     def run_tests(self):
         # import here, cause outside the eggs aren't loaded
