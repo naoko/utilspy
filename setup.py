@@ -65,9 +65,10 @@ setup(
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 3.6',
     ],
-    author='Data Stuff Team',
-    author_email='data.stuff@nextiva.com',
-    url='http://git.nextiva.xyz/projects/DAT/repos/botpy',
+    author='Naoko Reeves',
+    author_email='',
+    
+    url='https://github.com/naoko/utilspy.git',
     packages=find_packages(exclude=('tests*',)),
     include_package_data=True,
     zip_safe=False,
